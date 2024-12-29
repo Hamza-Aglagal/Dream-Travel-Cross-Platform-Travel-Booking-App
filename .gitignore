@@ -1,0 +1,4 @@
+App Web/node_modules/
+App Mobile react native/node_modules/
+BackEnd/__pycache__/
+BackEnd/db.sqlite3
